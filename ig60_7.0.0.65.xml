@@ -25,4 +25,13 @@
 
   <project path="wb/buildroot/package/lrd/externals/weblcm-python"
            name="weblcm-python.git" />
+ 
+  <remote  name="origin" fetch="ssh://github.com/Trisense/LairdGW.git" />
+
+  <default remote="origin" revision="" />
+  
+  <remote  name="origin" fetch="git@github.com:Trisense/node.git" />
+
+  <default remote="origin" revision="" />
+  
 </manifest>
