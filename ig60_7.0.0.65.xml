@@ -31,7 +31,7 @@
   <default remote="origin" revision="" />
   
   <project path="wb"
-           name="wb-greier" />
+           name="LairdGW.git" />
   
   <remote  name="origin" fetch="git@github.com:Trisense/node.git" />
 
